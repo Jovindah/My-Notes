@@ -2,6 +2,12 @@
  
   "name": "using-pre-built-react-components-completed",
   "version": "1.0.0",
+ "engines":
+ {
+    "node": "16.14.2", 
+     "npm": "8.5.0"
+ },
+ 
   "description": "",
   "keywords": [],
   "main": "src/index.js",
@@ -30,9 +36,5 @@
     "not ie <= 11",
     "not op_mini all"
   ]
-},
-"engines":
- {
-    "node": "16.14.2", 
-     "npm": "8.5.0"
- }
+}
+
