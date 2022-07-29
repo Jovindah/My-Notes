@@ -8,8 +8,8 @@
   "name": "using-pre-built-react-components-completed",
   "version": "1.0.0",
 "engines": {
-    "node": ">= 6.9.4",
-    "npm": ">= 4.4.0"
+    "node": "v16.14.2",
+    
   },
   "keywords": [],
   "main": "src/index.js",
