@@ -1,8 +1,19 @@
 {
+<<<<<<< HEAD
   
   "name": "using-pre-built-react-components-completed",
   "version": "1.0.0",
   "description": "My notes application",
+=======
+ 
+  "name": "using-pre-built-react-components-completed",
+  "version": "1.0.0",
+"engines": {
+        "node": "16.14.2"
+      },
+ 
+  "description": "",
+>>>>>>> a92b01a0107b2983bbf83c4453bae32d468e10a7
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -17,9 +28,14 @@
     "gh-pages": "^4.0.0",
     "typescript": "3.3.3"
   },
+
   "scripts": {
+<<<<<<< HEAD
    
     
+=======
+  
+>>>>>>> a92b01a0107b2983bbf83c4453bae32d468e10a7
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
@@ -32,3 +48,7 @@
     "not op_mini all"
   ]
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> a92b01a0107b2983bbf83c4453bae32d468e10a7
